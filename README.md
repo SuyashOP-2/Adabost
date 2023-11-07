@@ -1,3 +1,6 @@
+ ####----------->http://bit.ly/BEMLCODES->--------------### All ML codes
+
+
 AdaBoost, short for Adaptive Boosting, is a machine learning algorithm that helps improve the accuracy of weak models (typically simple or slightly better than random chance) by combining them to create a stronger model. It's like having a team of weak players and training them in a way that they become a strong team together.
 
 Here's a simple explanation of how AdaBoost works:
